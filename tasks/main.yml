@@ -1,0 +1,4 @@
+---
+# tasks file for test-role
+- import_tasks: part1.yaml
+- import_tasks: part2.yaml
